@@ -101,5 +101,8 @@
         "0.2.0": "provideRefactorWithPrepare"
       }
     }
+  },
+  "dependencies": {
+    "@savetheclocktower/atom-languageclient": "^1.17.11"
   }
 }
