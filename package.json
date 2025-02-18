@@ -1,7 +1,7 @@
 {
   "name": "pulsar-ide-d",
   "main": "./lib/main",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "D language support via the serve-d language server",
   "keywords": [
     "lsp",
